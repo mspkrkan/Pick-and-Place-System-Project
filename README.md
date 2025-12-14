@@ -44,4 +44,7 @@ Completed – open for further improvements and extensions.
 
 ## Notes
 This project was developed for educational purposes to gain hands-on experience
-in automation, motion control and integrated system design.
+
+## Media
+
+![Pick and Place System](media/pick-and-place-2.1.jpeg)
