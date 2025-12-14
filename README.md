@@ -30,12 +30,14 @@ motion control for automated object handling.
 
 ## Project Structure
 
+```
 pick-and-place-automation/
 ├─ firmware/        → Control and motion logic
 ├─ hardware/        → Circuit diagrams and wiring
 ├─ mechanics/       → Mechanical design files
 ├─ media/           → Photos and videos of the system
 └─ README.md
+```
 
 ## Status
 Completed – open for further improvements and extensions.
