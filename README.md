@@ -39,8 +39,18 @@ pick-and-place-automation/
 └─ README.md
 ```
 
+## Mobile Control (Optional Feature)
+
+As an experimental add-on, the system can also be controlled remotely 
+via a mobile application using Blynk and ESP32’s Wi-Fi capability.
+
+This feature was added as a quick weekend experiment and is not part of 
+the core system design.
+
+
 ## Status
 Completed – open for further improvements and extensions.
+
 
 ## Notes
 This project was developed for educational purposes to gain hands-on experience
