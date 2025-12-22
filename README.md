@@ -58,3 +58,4 @@ This project was developed for educational purposes to gain hands-on experience
 ## Media
 
 ![Pick and Place System](media/pick-and-place-2.1.jpeg)
+![Pick and Place System](media/Pick-and-Place-v1.1.jpeg)
